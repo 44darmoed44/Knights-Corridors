@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Default
+  - Green
+  - IsBuild
+  - OneCorridorDownIsBuild
+  - OneCorridor
+  - OneCorridorDown
+  - DefaultIsBuild
+  - OneCorridorRight
+  - OneCorridorRightIsBuild
+  - OneCorridorUp
+  - OneCorridorLeft
+  - OneCorridorLeftIsBuild
+  - OneCorridorUpIsBuild
+  - TwoCorridor
+  - TwoCorridorRight
+  - TwoCorridorDown
+  - TwoCorridorLeft
+  - TwoCorridorUp
+  - TwoCorridorRightIsBuild
+  - TwoCorridorLeftIsBuild
+  - TwoCorridorUpIsBuild
+  - TwoCorridorDownIsBuild
+  - ThreeCorridor
+  - ThreeCorridorRight
+  - ThreeCorridorDown
+  - ThreeCorridorLeft
+  - ThreeCorridorUp
+  - ThreeCorridorRightIsBuild
+  - ThreeCorridorLeftIsBuild
+  - ThreeCorridorUpIsBuild
+  - ThreeCorridorDownIsBuild
+  - FourCorridorIsBuild
+  - StartCellPlayer1
+  - DoubleCorridorsDownIsBuild
+  - DoubleCorridorsRightIsBuild
+  - DoubleCorridorsDown
+  - DoubleCorridorsRight
+  - FourCorridor
+  - FirstOfFirst
+  - FirstOfSecond
+  - First
+  - Second
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 339312085
+    locked: 0
